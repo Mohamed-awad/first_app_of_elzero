@@ -11,4 +11,7 @@ you need to install :-
 
 just open the directory of project and open index.html file
 
-# That`s it cool 
+# to make this web page watch this playlist 
+"https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzmjuEpKP8r4sVWEtFvKoq"
+
+# That's it cool 
